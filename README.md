@@ -45,18 +45,25 @@ This project demonstrates packet flow monitoring, cybersecurity traffic analysis
 - Packet flow analysis
 ---
 
+---
+
 ## Project Screenshots
 
-### Network Topology
-![Network Topology](screenshots/network-topology-router-switch-config.png)
+### Network Topology & Router Switch Configuration
+![Topology](screenshots/network-topology-router-switch-config.JPG)
 
-### Packet Flow Simulation
-![Packet Flow Simulation](screenshots/packet-flow-simulation-traffic-analysis.png)
-
-### Traffic Analysis
-![Traffic Analysis](screenshots/traffic-analysis.png)
+### Packet Flow Simulation & Traffic Analysis
+![Simulation](screenshots/packet-flow-simulation-traffic-analysis.JPG)
 
 ---
+
+## Certifications & Badges
+
+- Cybersecurity Essentials – Cisco
+- Cyber Ops Associate – Cisco
+- Introduction to Cybersecurity – Cisco
+- CCSK v4.1 Foundation Training – Cloud Security Alliance
+
 ---
 
 ## Certifications Related to This Project
