@@ -45,8 +45,6 @@ This project demonstrates packet flow monitoring, cybersecurity traffic analysis
 - Packet flow analysis
 ---
 
----
-
 ## Project Screenshots
 
 ### Network Topology & Router Switch Configuration
