@@ -1,4 +1,7 @@
 # Cybersecurity Packet Flow Visualization
+![Cisco](https://img.shields.io/badge/Cisco-Networking-blue)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Project-green)
+![PacketTracer](https://img.shields.io/badge/PacketTracer-Simulation-orange)
 
 ## Project Overview
 This project demonstrates packet flow monitoring, cybersecurity traffic analysis, and network visualization using Cisco Packet Tracer. The project focuses on understanding how packets travel across networks, identifying communication patterns, and analyzing cybersecurity-related traffic behavior.
@@ -33,6 +36,14 @@ This project demonstrates packet flow monitoring, cybersecurity traffic analysis
 - Routing & Switching
 - OSI Model
 - TCP/IP Protocol Suite
+## Skills Demonstrated
+- Cybersecurity Analysis
+- Network Monitoring
+- Packet Flow Visualization
+- Cisco Packet Tracer Simulation
+- Routing & Switching
+- Network Troubleshooting
+- OSINT & Traffic Analysis Concepts
 
 ---
 
@@ -44,7 +55,16 @@ This project demonstrates packet flow monitoring, cybersecurity traffic analysis
 - Tables and documentation
 - Packet flow analysis
 ---
+## Repository Structure
 
+```bash
+screenshots/
+diagrams/
+simulation-files/
+certifications/
+README.md
+LICENSE
+```
 ## Project Screenshots
 
 ### Network Topology & Router Switch Configuration
@@ -88,7 +108,10 @@ This project demonstrates packet flow monitoring, cybersecurity traffic analysis
 - Traffic anomaly detection
 - Advanced network security implementation
 - SIEM integration concepts
+---
 
+## License
+This project is licensed under the MIT License.
 ---
 
 ## Author
@@ -97,8 +120,6 @@ Arpeet Bhaisare
 B.Tech – Electronics & Communication Engineering  
 Indian Institute of Information Technology (IIIT) Bhopal
 
-LinkedIn:
-https://www.linkedin.com/in/arpeet-bhaisare-a02a061ba
+LinkedIn: [Arpeet Bhaisare](https://www.linkedin.com/in/arpeet-bhaisare-a02a061ba)
 
-GitHub:
-https://github.com/Arpeet-Bhaisare
+GitHub: [Arpeet-Bhaisare](https://github.com/Arpeet-Bhaisare)
