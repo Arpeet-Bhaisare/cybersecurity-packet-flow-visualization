@@ -48,10 +48,10 @@ This project demonstrates packet flow monitoring, cybersecurity traffic analysis
 ## Project Screenshots
 
 ### Network Topology
-![Network Topology](screenshots/network-topology.png)
+![Network Topology](screenshots/network-topology-router-switch-config.png)
 
 ### Packet Flow Simulation
-![Packet Flow Simulation](screenshots/packet-flow-simulation.png)
+![Packet Flow Simulation](screenshots/packet-flow-simulation-traffic-analysis.png)
 
 ### Traffic Analysis
 ![Traffic Analysis](screenshots/traffic-analysis.png)
