@@ -36,6 +36,9 @@ This project demonstrates packet flow monitoring, cybersecurity traffic analysis
 - Routing & Switching
 - OSI Model
 - TCP/IP Protocol Suite
+
+---
+
 ## Skills Demonstrated
 - Cybersecurity Analysis
 - Network Monitoring
@@ -54,7 +57,9 @@ This project demonstrates packet flow monitoring, cybersecurity traffic analysis
 - Screenshots and figures
 - Tables and documentation
 - Packet flow analysis
+
 ---
+
 ## Repository Structure
 
 ```bash
