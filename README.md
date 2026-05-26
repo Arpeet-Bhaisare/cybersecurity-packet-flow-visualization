@@ -168,6 +168,29 @@ cybersecurity-packet-flow-visualization/
 
 ---
 
+## Network Configuration
+
+Basic router and switch configuration commands used in this simulation are included in:
+
+```bash
+configurations/router-switch-config.txt
+```
+
+---
+
+## Protocol Analysis & Configuration
+
+This screenshot demonstrates:
+
+- Ethernet Frame Analysis
+- IPv4 Packet Analysis
+- ICMP Communication
+- Router & Switch Configuration
+- Packet Flow Visualization
+
+![Protocol Analysis](screenshots/protocol-analysis-and-configuration.JPG)
+
+---
 ## Packet Analysis Performed
 
 The project involved analyzing:
