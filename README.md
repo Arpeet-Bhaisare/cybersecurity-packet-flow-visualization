@@ -184,6 +184,25 @@ The project involved analyzing:
 
 ---
 
+## Protocol Analysis
+
+The simulation demonstrates analysis of:
+
+- Ethernet Frames
+- IPv4 Packet Headers
+- ICMP Communication
+- Source & Destination Addressing
+- Packet Encapsulation
+- Router Forwarding Behavior
+
+The project includes screenshots of:
+- Network topology
+- Simulation mode traffic flow
+- Router and switch configuration
+- Protocol-level packet analysis
+
+---
+
 ## Certifications & Badges
 
 ### Certificates
