@@ -1,4 +1,4 @@
-# Cybersecurity Packet Flow Visualization
+# Cybersecurity Packet Flow Visualization using Cisco Packet Tracer # Cybersecurity Packet Flow Visualization
 ![Cisco](https://img.shields.io/badge/Cisco-Networking-blue)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Project-green)
 ![PacketTracer](https://img.shields.io/badge/PacketTracer-Simulation-orange)
@@ -6,6 +6,11 @@
 ## Project Overview
 This project demonstrates packet flow monitoring, cybersecurity traffic analysis, and network visualization using Cisco Packet Tracer. The project focuses on understanding how packets travel across networks, identifying communication patterns, and analyzing cybersecurity-related traffic behavior.
 
+## Internship Context
+
+This project was developed during the Cisco Networking Academy Virtual Internship Program (VIP) 2023 under NIIT Foundation.
+
+The objective was to visualize packet flow from host systems to external networks using Cisco Packet Tracer and packet analysis concepts.
 ---
 
 ## Objectives
@@ -16,6 +21,18 @@ This project demonstrates packet flow monitoring, cybersecurity traffic analysis
 - Learn cybersecurity monitoring and network analysis concepts
 
 ---
+## Network Flow Architecture
+
+This project demonstrates packet traversal through:
+
+Host Device → Switch → Router → External Network
+
+The simulation includes:
+- Layer 2 Switching
+- Layer 3 Routing
+- Packet Header Analysis
+- OSI Layer Communication
+- IPv4 Configuration
 
 ## Features
 - Packet flow simulation
@@ -78,6 +95,26 @@ LICENSE
 ### Packet Flow Simulation & Traffic Analysis
 ![Simulation](screenshots/packet-flow-simulation-traffic-analysis.JPG)
 
+## Project Files
+
+### Cisco Packet Tracer Simulation
+[Download Packet Tracer File](simulation-files/cybersecurity-packet-flow.pkt)
+
+---
+
+## Certifications & Badges
+
+### Certificates
+
+- [Cybersecurity Essentials Certificate](certifications/Certificate%20of%20Course%20Completion%20Introduction%20to%20Cybersecurity(1).pdf)
+
+- [Cyber Ops Associate Certificate](certifications/Certificate%20of%20Course%20Completion%20cyberops%20Associate.pdf)
+
+- [Cisco Letter of Merit](certifications/Latter%20of%20Merit%20From%20Cisco%20Networking%20Academy.pdf)
+
+- [Cisco Packet Tracer Certificate](certifications/Certificate%20of%20Course%20Completion%20in%20Introduction%20to%20Packet%20Tracer.pdf)
+
+- [CCSK v4.1 Foundation Training](certifications/cloudsecurity%20Alliance%20Certificate%20of%20training%20CCSK%20v4.1%20Foundation%20Training.pdf)
 ---
 
 ## Certifications & Badges
@@ -86,7 +123,16 @@ LICENSE
 - Cyber Ops Associate – Cisco
 - Introduction to Cybersecurity – Cisco
 - CCSK v4.1 Foundation Training – Cloud Security Alliance
+## Certification Badges
 
+### Cyber Ops Associate
+![CyberOps](certifications/Badge%20cyberops-associate.png)
+
+### Cybersecurity Essentials
+![Cybersecurity Essentials](certifications/Badge%20cybersecurity-essentials.png)
+
+### Introduction to Cybersecurity
+![Intro Cybersecurity](certifications/Badge%20introduction-to-cybersecurity.png)
 ---
 
 ## Certifications Related to This Project
@@ -104,7 +150,14 @@ LICENSE
 - Protocol behavior analysis
 - Network troubleshooting
 - Simulation-based cybersecurity learning
+## Expected Outcomes
 
+- Understanding of OSI model layers
+- Understanding packet metadata and headers
+- Knowledge of routing and switching
+- Cybersecurity traffic visualization
+- Practical packet inspection skills
+- Network troubleshooting concepts
 ---
 
 ## Future Improvements
